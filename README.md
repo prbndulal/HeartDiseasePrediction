@@ -1,2 +1,3 @@
 # HeartDiseasePrediction
-HeartDiseasePrediction using Machine Learning
+HeartDiseasePrediction using Different Machine Learning Algorithms
+
